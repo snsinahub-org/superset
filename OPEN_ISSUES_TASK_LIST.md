@@ -220,7 +220,7 @@
 - [ ] [【6.0.0-RC2】Table chart header IDs are not populated correctly](https://github.com/snsinahub-org/superset/issues/266) #266
 - [ ] [Conditionnal Formatting Table Chart](https://github.com/snsinahub-org/superset/issues/268) #268
 - [ ] [Conditional formatting improvements](https://github.com/snsinahub-org/superset/issues/297) #297
-- [ ] [](https://github.com/snsinahub-org/superset/issues/309) #309
+- [ ] [Issue created by mistake - no title](https://github.com/snsinahub-org/superset/issues/309) #309
 
 ### 🏷️ viz:charts:timeseries
 
